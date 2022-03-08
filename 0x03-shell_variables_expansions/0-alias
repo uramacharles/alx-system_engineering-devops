@@ -1,2 +1,2 @@
 #!/bin/bash
-alias rm="rm *"; ls="ls"
+alias Value="rm *" name="ls"
