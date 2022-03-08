@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello" $(env USERNAME)
+echo "hello" $(whoami)
