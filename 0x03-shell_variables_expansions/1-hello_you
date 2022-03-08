@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv USERNAME | echo "hello $@"
+printenv USERNAME | echo "hello $1"
